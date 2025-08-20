@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Vishal Kumar  
+
+🚀 **Aspiring Data Analyst | Python | SQL | Power BI | Excel**  
+
+I am passionate about transforming data into actionable insights.  
+Currently, I am working on **Data Analysis projects** and learning **Machine Learning basics**.  
+
+---
+
+## 🔧 Skills & Tools  
+- Python 🐍  
+- SQL 📊  
+- Power BI 📈  
+- Excel 📑  
+- Data Visualization 🎨  
+
+---
+
+## 📂 Featured Projects  
+- [📊 Sales Dashboard in Power BI](#)  
+- [🎓 Student Performance Analysis](#)  
+- [🗄 SQL Queries for Business Analysis](#)  
+
+---
+
+## 🌐 Connect With Me  
+📧 Email: yourmail@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=Vishalcoder70&color=blue)
