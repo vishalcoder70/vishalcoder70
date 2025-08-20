@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Vishal Kumar  
+# 👋 Hi, I'm Vishal Verma  
 
 🚀 **Aspiring Data Analyst | Python | SQL | Power BI | Excel**  
 
@@ -33,15 +33,14 @@ Currently, I am working on **Data Analysis projects** and learning **Machine Lea
 ---
 
 ## 📂 Featured Projects  
-- [📊 Sales Dashboard in Power BI](#)  
-- [🎓 Student Performance Analysis](#)  
-- [🗄 SQL Queries for Business Analysis](#)  
+- [📊 Zomato_restaurants](#)  
+ 
 
 ---
 
 ## 🌐 Connect With Me  
-📧 Email: yourmail@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+📧 Email: bisu9570@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/vishal-verma-b898a3284)  
 
 ---
 
