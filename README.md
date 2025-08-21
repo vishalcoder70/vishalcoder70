@@ -33,7 +33,8 @@ Currently, I am working on **Data Analysis projects** and learning **Machine Lea
 ---
 
 ## 📂 Featured Projects  
-- [📊 Zomato_restaurants](#)  
+- [📊 Zomato_restaurants](#)
+- Blinkit-Data-Analysis
  
 
 ---
