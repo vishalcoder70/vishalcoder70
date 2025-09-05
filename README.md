@@ -24,11 +24,13 @@ Currently, I am working on **Data Analysis projects** and learning **Machine Lea
 ---
 
 ## 🔧 Skills & Tools  
-- Python 🐍  
-- SQL 📊  
-- Power BI 📈  
-- Excel 📑  
-- Data Visualization 🎨  
+Technical Skills
+	* Programming & Analytics: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (Advanced)
+	* Visualization Tools: Power BI (DAX, KPI dashboards), Excel, Tableau
+	* Data Handling: Data Cleaning, Wrangling, ETL (Power Query), Large Dataset Processing
+	* Machine Learning (Basics): Regression, Classification, Clustering, EDA
+	* Databases: MySQL, PostgreSQL, Google BigQuery
+	* Tools & Platforms: Jupyter, Google Colab, Git/GitHub, MS Office Suite
 
 ---
 
